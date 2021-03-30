@@ -1,5 +1,5 @@
 /*  ============= WEB BROWSER RESETS ============ */
-body { background-color: lightcyan }
+body { background-color: antiquewhite }
 /* Desktops */
 @media (min-width: 768px) { body { padding: 4% 20% } }
 	
@@ -20,6 +20,7 @@ input, button, textarea, select { font: inherit }
 
 
 h1 {
+    color: brown;
     font-size: 72px;
     margin-bottom: 56px;
 text-align: center;
@@ -28,6 +29,7 @@ font-family: sans-serif;
 }
 
 h2 {
+    color: brown;
     font-size: 30px;
     margin-bottom: 64px;
     font-family: sans-serif;
@@ -38,6 +40,7 @@ font-weight: normal;
 }
 
 h3 {
+    color: brown;
     font-size: 32px;
     margin-bottom: 4px;
 }
