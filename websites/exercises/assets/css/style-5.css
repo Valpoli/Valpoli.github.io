@@ -23,6 +23,8 @@ body {
     background-color: #FFFFBD;
 }
 
+
+
 /* Main heading */
 h1 {
     font-family: serif;    
@@ -63,4 +65,9 @@ p {
     line-height: 1.6;
     margin-top: 0;
     margin-bottom: 22px;
+}
+
+img{
+    margin-bottom: 42px;
+    box-shadow: 8px 10px 8px #888;
 }
